@@ -1,1 +1,1 @@
-print("Hello Word")
+print("Hello Word") # primeiro código em python 

@@ -16,7 +16,6 @@ def canal():
 
 canal()
 
-print(canal) # nao da erro
 #print(canalEscopoGlobal)
 print(teste)
  

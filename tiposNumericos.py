@@ -19,3 +19,4 @@ print("O numero aleatorio foi: " + str(numeroAleatorio))
 vetorDeNumeros = [random.randrange(0,100),random.randrange(0,100),random.randrange(0,100)]
 
 print(vetorDeNumeros)
+

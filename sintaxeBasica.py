@@ -5,17 +5,15 @@ print(num)
 num = " bruno" # a variavel virou uma string pois recebeu uma string
 print(num)
 
-numero1 = 5
-numero2 = 10 
-numero3 = numero2 + numero1
 
-print(numero3)
-if 10 > 2:
+
+
+if 10 > 2: # se 10 for maior do que 2 printa 
  print("Para printar o comando tem que esta no escopo do if")
  print("Dentro do escopo")
 print("Fora do escopo")
 
-if 10 < 2:
- print("Para printar o comando tem que esta no escopo do if")
- print("Dentro do escopo")
-print("Fora do escopo")
+if 10 < 2: # Se 10 for menor do 2 que 2 printa
+  print("Para printar o comando tem que esta no escopo do if")
+  print("Dentro do escopo")
+print("Ira printar pois está fora do escopo")
